@@ -15,7 +15,8 @@
         "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
       ],
       "categories": [
-        "IT & Management Tools"
+        "Analytics",
+        "Insights & visualization"
       ],
       "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
       "support_url": "https://github.com/bitnami/charts/issues",
@@ -53,7 +54,8 @@
         "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
       ],
       "categories": [
-        "Developer tools"
+        "Hardware",
+        "Endpoints"
       ],
       "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
       "support_url": "https://github.com/bitnami/charts/issues",
@@ -91,7 +93,8 @@
         "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
       ],
       "categories": [
-        "Web"
+        "Telco",
+        "Mobile"
       ],
       "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
       "support_url": "https://github.com/bitnami/charts/issues",
