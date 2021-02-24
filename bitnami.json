@@ -1,0 +1,126 @@
+{
+  "license": "This is a privileged and licensed API for the exclusive use of VMware, Inc. To arrange access to this API for other solutions please contact us at sales@bitnami.com",
+  "assets": [
+    {
+      "partner_id": "Bitnami",
+      "app_id": "airflow",
+      "title": "Apache Airflow Helm Chart",
+      "logo_url": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/airflow/img/airflow-stack-220x234.png",
+      "short_description": "Up-to-date, secure, and ready to deploy on Kubernetes. Apache Airflow is a tool to express and execute workflows as directed acyclic graphs (DAGs). It includes utilities to schedule tasks, monitor task progress and handle task dependencies.",
+      "summary": "Up-to-date, secure, and ready to deploy on Kubernetes.",
+      "description": "Apache Airflow makes it easier to create, maintain and test complex workflows by providing a platform to express and execute them as directed acyclic graphs (DAGs). It includes utilities to schedule tasks, monitor task progress and handle task dependencies.\r\nKey features include:\r\n- Support for task scheduling and dependencies\r\n- Rich user interface to visualize, modify and manage tasks\r\n- Extensible and scalable\r\n\r\nWhy Use Bitnami Helm Charts?\r\n\r\nBitnami certifies that our containers are secure, up-to-date, and packaged using industry best practices. Bitnami containers can be used with Kubeapps for deployment and management of Helm Charts in clusters.",
+      "highlights": [
+        "Up-to-date and secure. When vulnerabilities are identified or new versions of the application and its components are released, Bitnami automatically repackages the Helm chart and pushes the latest version to the cloud marketplaces.",
+        "Ready to run on Kubernetes. Bitnami Helm charts reduce the complexity of application deployment on a cluster by defining Kubernetes objects in the manifest files.",
+        "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
+      ],
+      "categories": [
+        "Telco",
+        "Mobile"
+      ],
+      "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
+      "support_url": "https://github.com/bitnami/charts/issues",
+      "pricing_model": "Free",
+      "resources": [
+        {
+          "name": "README",
+          "url": "https://github.com/bitnami/charts/tree/master/bitnami/airflow"
+        },
+        {
+          "name": "Get Started with Charts using PKS",
+          "url": "https://docs.bitnami.com/vmware-marketplace/get-started-charts-pks/"
+        },
+        {
+          "name": "Product Page",
+          "url": "https://bitnami.com/stack/apache-airflow/helm"
+        }
+      ],
+      "eula_url": "http://www.apache.org/licenses/LICENSE-2.0.txt",
+      "required_services": "VMware Cloud PKS",
+      "content_type": "chart",
+      "heml_repo": "https://charts.bitnami.com"
+    },
+     {
+      "partner_id": "Bitnami",
+      "app_id": "apache",
+      "title": "Apache Helm Chart",
+      "logo_url": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/apache/img/apache-stack-220x234.png",
+      "short_description": "Up-to-date, secure, and ready to deploy on Kubernetes. Apache HTTP Server is an open-source HTTP server. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.",
+      "summary": "Up-to-date, secure, and ready to deploy on Kubernetes.",
+      "description": "Apache HTTP Server is an open-source HTTP server. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.\r\n\r\nWhy Use Bitnami Helm Charts?\r\n\r\nBitnami certifies that our containers are secure, up-to-date, and packaged using industry best practices. Bitnami containers can be used with Kubeapps for deployment and management of Helm Charts in clusters.",
+      "highlights": [
+        "Up-to-date and secure. When vulnerabilities are identified or new versions of the application and its components are released, Bitnami automatically repackages the Helm chart and pushes the latest version to the cloud marketplaces.",
+        "Ready to run on Kubernetes. Bitnami Helm charts reduce the complexity of application deployment on a cluster by defining Kubernetes objects in the manifest files.",
+        "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
+      ],
+      "categories": [
+        "Hardware",
+        "All Other"
+      ],
+      "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
+      "support_url": "https://github.com/bitnami/charts/issues",
+      "pricing_model": "Free",
+      "resources": [
+        {
+          "name": "README",
+          "url": "https://github.com/bitnami/charts/tree/master/bitnami/apache"
+        },
+        {
+          "name": "Get Started with Charts using PKS",
+          "url": "https://docs.bitnami.com/vmware-marketplace/get-started-charts-pks/"
+        },
+        {
+          "name": "Product Page",
+          "url": "https://bitnami.com/stack/apache/helm"
+        }
+      ],
+      "eula_url": "http://www.apache.org/licenses/LICENSE-2.0.txt",
+      "required_services": "VMware Cloud PKS",
+      "content_type": "chart",
+      "heml_repo": "https://charts.bitnami.com"
+    },
+    {
+      "partner_id": "Bitnami",
+      "app_id": "aspnet-core",
+      "title": "ASP.NET Helm Chart",
+      "logo_url": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/aspnet-core/img/aspnet-core-stack-220x234.png",
+      "short_description": "Up-to-date, secure, and ready to deploy on Kubernetes. ASP.NET Core is an open-source framework for web application development created by Microsoft. It runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core.\t",
+      "summary": "Up-to-date, secure, and ready to deploy on Kubernetes.",
+      "description": "ASP.NET Core is an open-source framework for web application development created by Microsoft. It runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core.\t\r\n\r\nWhy Use Bitnami Helm Charts?\r\n\r\nBitnami certifies that our containers are secure, up-to-date, and packaged using industry best practices. Bitnami containers can be used with Kubeapps for deployment and management of Helm Charts in clusters.",
+      "highlights": [
+        "Up-to-date and secure. When vulnerabilities are identified or new versions of the application and its components are released, Bitnami automatically repackages the Helm chart and pushes the latest version to the cloud marketplaces.",
+        "Ready to run on Kubernetes. Bitnami Helm charts reduce the complexity of application deployment on a cluster by defining Kubernetes objects in the manifest files.",
+        "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
+      ],
+      "categories": [
+        "Analytics",
+        "Insights & visualization"
+      ],
+      "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
+      "support_url": "https://github.com/bitnami/charts/issues",
+      "pricing_model": "Free",
+      "resources": [
+        {
+          "name": "README",
+          "url": "https://github.com/bitnami/charts/tree/master/bitnami/aspnet-core"
+        },
+        {
+          "name": "Get Started with Charts using PKS",
+          "url": "https://docs.bitnami.com/vmware-marketplace/get-started-charts-pks/"
+        },
+        {
+          "name": "Product Page",
+          "url": "https://bitnami.com/stack/aspnet-core/helm"
+        }
+      ],
+      "eula_url": "http://www.apache.org/licenses/LICENSE-2.0.txt",
+      "required_services": "VMware Cloud PKS",
+      "content_type": "chart",
+      "heml_repo": "https://charts.bitnami.com"
+    }
+    ],
+    "errors": [
+
+  ]
+
+    }
