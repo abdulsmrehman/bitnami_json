@@ -12,7 +12,7 @@
       "highlights": [
         "Up-to-date and secure. When vulnerabilities are identified or new versions of the application and its components are released, Bitnami automatically repackages the Helm chart and pushes the latest version to the cloud marketplaces.",
         "Ready to run on Kubernetes. Bitnami Helm charts reduce the complexity of application deployment on a cluster by defining Kubernetes objects in the manifest files.",
-        "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
+        "Manage with Kubeapps . Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
       ],
       "categories": [
         "Hardware",
