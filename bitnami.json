@@ -4,7 +4,7 @@
     {
       "partner_id": "Bitnami",
       "app_id": "airflow",
-      "title": "Apache Airflow Helm Chart",
+      "title": "Apache Airflow Helm Chart Test",
       "logo_url": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/airflow/img/airflow-stack-220x234.png",
       "short_description": "Up-to-date, secure, and ready to deploy on Kubernetes. Apache Airflow is a tool to express and execute workflows as directed acyclic graphs (DAGs). It includes utilities to schedule tasks, monitor task progress and handle task dependencies.",
       "summary": "Up-to-date, secure, and ready to deploy on Kubernetes.",
@@ -15,8 +15,8 @@
         "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
       ],
       "categories": [
-        "Telco",
-        "Mobile"
+        "Hardware",
+        "All Other"
       ],
       "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
       "support_url": "https://github.com/bitnami/charts/issues",
@@ -43,7 +43,7 @@
      {
       "partner_id": "Bitnami",
       "app_id": "apache",
-      "title": "Apache Helm Chart",
+      "title": "Apache Helm Chart Test",
       "logo_url": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/apache/img/apache-stack-220x234.png",
       "short_description": "Up-to-date, secure, and ready to deploy on Kubernetes. Apache HTTP Server is an open-source HTTP server. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.",
       "summary": "Up-to-date, secure, and ready to deploy on Kubernetes.",
@@ -54,8 +54,8 @@
         "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
       ],
       "categories": [
-        "Hardware",
-        "All Other"
+        "Business Tools",
+        "Collaboration"
       ],
       "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
       "support_url": "https://github.com/bitnami/charts/issues",
@@ -82,7 +82,7 @@
     {
       "partner_id": "Bitnami",
       "app_id": "aspnet-core",
-      "title": "ASP.NET Helm Chart",
+      "title": "ASP.NET Helm Chart Test",
       "logo_url": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/aspnet-core/img/aspnet-core-stack-220x234.png",
       "short_description": "Up-to-date, secure, and ready to deploy on Kubernetes. ASP.NET Core is an open-source framework for web application development created by Microsoft. It runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core.\t",
       "summary": "Up-to-date, secure, and ready to deploy on Kubernetes.",
@@ -93,8 +93,8 @@
         "Manage with Kubeapps. Use Kubeapps for easier and safer management of applications in Kubernetes clusters."
       ],
       "categories": [
-        "Analytics",
-        "Insights & visualization"
+        "Compute",
+        "All Other"
       ],
       "support_statement": "Bitnami provides technical documentation for installation and setup issues through our support center at https://bitnami.com/support/vmware-marketplace",
       "support_url": "https://github.com/bitnami/charts/issues",
