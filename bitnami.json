@@ -84,7 +84,7 @@
       "app_id": "aspnet-core",
       "title": "ASP.NET Helm Chart Test",
       "logo_url": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/aspnet-core/img/aspnet-core-stack-220x234.png",
-      "short_description": "Up-to-date, secure, and ready to deploy on Kubernetes. ASP.NET Core is an open-source framework for web application development created by Microsoft. It runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core.\t",
+      "short_description": "Up-to-date test, secure, and ready to deploy on Kubernetes. ASP.NET Core is an open-source framework for web application development created by Microsoft. It runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core.\t",
       "summary": "Up-to-date, secure, and ready to deploy on Kubernetes.",
       "description": "ASP.NET Core is an open-source framework for web application development created by Microsoft. It runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core.\t\r\n\r\nWhy Use Bitnami Helm Charts?\r\n\r\nBitnami certifies that our containers are secure, up-to-date, and packaged using industry best practices. Bitnami containers can be used with Kubeapps for deployment and management of Helm Charts in clusters.",
       "highlights": [
